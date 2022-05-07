@@ -212,6 +212,10 @@
     font-size: 1.2rem;
     border: none;
     outline: none;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .about .btn-1:hover{
